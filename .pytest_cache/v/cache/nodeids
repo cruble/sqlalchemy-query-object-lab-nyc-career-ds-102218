@@ -1,0 +1,10 @@
+[
+  "test/index_test.py::TestQueries::test_count_number_of_tech_companies",
+  "test/index_test.py::TestQueries::test_return_apple",
+  "test/index_test.py::TestQueries::test_return_conglomerates_and_pharmaceutical_companies",
+  "test/index_test.py::TestQueries::test_return_disneys_industry",
+  "test/index_test.py::TestQueries::test_return_industry_and_its_total_EV",
+  "test/index_test.py::TestQueries::test_return_list_of_company_objects_ordered_alphabetically_by_symbol",
+  "test/index_test.py::TestQueries::test_return_list_of_consumer_products_companies_with_EV_above_225",
+  "test/index_test.py::TestQueries::test_return_list_of_dicts_of_tech_company_names_and_their_EVs_ordered_by_EV_descending"
+]
