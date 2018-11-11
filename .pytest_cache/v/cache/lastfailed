@@ -1,3 +1,14 @@
 {
+<<<<<<< HEAD
   "test/index_test.py::TestQueries": true
+=======
+  "test/index_test.py::TestQueries::test_count_number_of_tech_companies": true,
+  "test/index_test.py::TestQueries::test_return_apple": true,
+  "test/index_test.py::TestQueries::test_return_conglomerates_and_pharmaceutical_companies": true,
+  "test/index_test.py::TestQueries::test_return_disneys_industry": true,
+  "test/index_test.py::TestQueries::test_return_industry_and_its_total_EV": true,
+  "test/index_test.py::TestQueries::test_return_list_of_company_objects_ordered_alphabetically_by_symbol": true,
+  "test/index_test.py::TestQueries::test_return_list_of_consumer_products_companies_with_EV_above_225": true,
+  "test/index_test.py::TestQueries::test_return_list_of_dicts_of_tech_company_names_and_their_EVs_ordered_by_EV_descending": true
+>>>>>>> b66657d0740617b997d4742dbcf9e81b4cfe8e93
 }
